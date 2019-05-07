@@ -14,23 +14,3 @@
 
 #### Review
 * Write a review question for yourself
-
-
-## Chapter 1
-
-#### Survey
-> Done
-
-#### Question
-* What is vue-loader?
-* What is a directive?
-
-
-#### Read
-> Read the chapter and then write "done"
-
-#### Recite
-* Take notes on the chapter, write in your own words
-
-#### Review
-* Write a review question for yourself
